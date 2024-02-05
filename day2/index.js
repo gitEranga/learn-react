@@ -1,5 +1,5 @@
 const heading = document.getElementById("headinf=g2");
-sdsd.innerHTML="hi"
+heading.innerHTML="hi"
 
 
 //virtual DOM
