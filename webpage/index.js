@@ -1,1 +1,1 @@
-document.getElementById("w1").innerHTML = "Secgggggond";
+document.getElementById("w1").innerHTML = "Second";

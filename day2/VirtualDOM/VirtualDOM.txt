@@ -1,0 +1,5 @@
+Virtual DOM is a programming concept where a virtual representation of a UI is kept in memory 
+synced with “Real DOM ” by a library such as ReactDOM and this process is called reconciliation.
+
+
+https://www.geeksforgeeks.org/reactjs-virtual-dom/
